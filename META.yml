@@ -22,4 +22,4 @@ requires:
   File::Slurp: 0
   String::Diff: 0.04
   Test::More: 0
-version: 0.02
+version: 0.03
